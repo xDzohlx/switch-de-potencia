@@ -79,6 +79,11 @@
 <wire x1="35" y1="42" x2="0" y2="42" width="0" layer="20"/>
 <wire x1="0" y1="42" x2="0" y2="0" width="0" layer="20"/>
 <text x="4" y="34.7" size="1.778" layer="22" rot="MR270">Diseñado en México por Sol</text>
+<text x="13.6" y="33.6" size="1.778" layer="21">v+</text>
+<text x="6.9" y="33.7" size="1.778" layer="21">v+</text>
+<text x="0.5" y="33.2" size="1.778" layer="21">GND</text>
+<text x="19" y="33.3" size="1.778" layer="21">GND</text>
+<text x="19" y="40" size="1.778" layer="22" rot="MR270">INPUT</text>
 </plain>
 <libraries>
 <library name="infineon" urn="urn:adsk.eagle:library:245">
