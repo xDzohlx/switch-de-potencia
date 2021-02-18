@@ -8,34 +8,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="2" name="Route2" color="16" fill="1" visible="yes" active="no"/>
-<layer number="3" name="Route3" color="17" fill="1" visible="yes" active="no"/>
-<layer number="4" name="Route4" color="18" fill="1" visible="yes" active="no"/>
-<layer number="5" name="Route5" color="19" fill="1" visible="yes" active="no"/>
-<layer number="6" name="Route6" color="25" fill="1" visible="yes" active="no"/>
-<layer number="7" name="Route7" color="26" fill="1" visible="yes" active="no"/>
-<layer number="8" name="Route8" color="27" fill="1" visible="yes" active="no"/>
-<layer number="9" name="Route9" color="28" fill="1" visible="yes" active="no"/>
-<layer number="10" name="Route10" color="29" fill="1" visible="yes" active="no"/>
-<layer number="11" name="Route11" color="30" fill="1" visible="yes" active="no"/>
-<layer number="12" name="Route12" color="20" fill="1" visible="yes" active="no"/>
-<layer number="13" name="Route13" color="21" fill="1" visible="yes" active="no"/>
-<layer number="14" name="Route14" color="22" fill="1" visible="yes" active="no"/>
-<layer number="15" name="Route15" color="23" fill="1" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="24" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
+<layer number="3" name="Route3" color="17" fill="1" visible="no" active="no"/>
+<layer number="4" name="Route4" color="18" fill="1" visible="no" active="no"/>
+<layer number="5" name="Route5" color="19" fill="1" visible="no" active="no"/>
+<layer number="6" name="Route6" color="25" fill="1" visible="no" active="no"/>
+<layer number="7" name="Route7" color="26" fill="1" visible="no" active="no"/>
+<layer number="8" name="Route8" color="27" fill="1" visible="no" active="no"/>
+<layer number="9" name="Route9" color="28" fill="1" visible="no" active="no"/>
+<layer number="10" name="Route10" color="29" fill="1" visible="no" active="no"/>
+<layer number="11" name="Route11" color="30" fill="1" visible="no" active="no"/>
+<layer number="12" name="Route12" color="20" fill="1" visible="no" active="no"/>
+<layer number="13" name="Route13" color="21" fill="1" visible="no" active="no"/>
+<layer number="14" name="Route14" color="22" fill="1" visible="no" active="no"/>
+<layer number="15" name="Route15" color="23" fill="1" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="24" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -44,8 +44,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -53,12 +53,12 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
 <layer number="88" name="SimResults" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="89" name="SimProbes" color="9" fill="1" visible="yes" active="yes"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
@@ -14287,92 +14287,6 @@ Source: www.kingbright.com</description>
 </deviceset>
 </devicesets>
 </library>
-<library name="Push smd">
-<packages>
-<package name="PTS647SK38SMTR2LFS_CNK">
-<smd name="1" x="-2.625" y="1.6" dx="1.5494" dy="0.9906" layer="1"/>
-<smd name="3" x="-2.625" y="-1.6" dx="1.5494" dy="0.9906" layer="1"/>
-<smd name="4" x="2.625" y="-1.6" dx="1.5494" dy="0.9906" layer="1"/>
-<smd name="2" x="2.625" y="1.6" dx="1.5494" dy="0.9906" layer="1"/>
-<wire x1="-1.6764" y1="-2.3876" x2="1.6764" y2="-2.3876" width="0.1524" layer="21"/>
-<wire x1="2.3876" y1="-0.762" x2="2.3876" y2="0.762" width="0.1524" layer="21"/>
-<wire x1="1.6764" y1="2.3876" x2="-1.6764" y2="2.3876" width="0.1524" layer="21"/>
-<wire x1="-2.3876" y1="0.762" x2="-2.3876" y2="-0.762" width="0.1524" layer="21"/>
-<wire x1="-4.0894" y1="1.6002" x2="-4.4958" y2="1.6002" width="0.1524" layer="21" curve="-180"/>
-<wire x1="-4.4958" y1="1.6002" x2="-4.0894" y2="1.6002" width="0.1524" layer="21" curve="-180"/>
-<text x="-1.7272" y="-0.635" size="1.27" layer="21" ratio="6" rot="SR0">&gt;Value</text>
-<wire x1="-2.6162" y1="1.6002" x2="-2.2352" y2="1.6002" width="0.1524" layer="51"/>
-<wire x1="-2.6162" y1="-1.6002" x2="-2.2352" y2="-1.6002" width="0.1524" layer="51"/>
-<wire x1="2.6162" y1="-1.6002" x2="2.2352" y2="-1.6002" width="0.1524" layer="51"/>
-<wire x1="2.6162" y1="1.6002" x2="2.2352" y2="1.6002" width="0.1524" layer="51"/>
-<wire x1="-2.2352" y1="-2.2352" x2="2.2352" y2="-2.2352" width="0.1524" layer="51"/>
-<wire x1="2.2352" y1="-2.2352" x2="2.2352" y2="2.2352" width="0.1524" layer="51"/>
-<wire x1="2.2352" y1="2.2352" x2="-2.2352" y2="2.2352" width="0.1524" layer="51"/>
-<wire x1="-2.2352" y1="2.2352" x2="-2.2352" y2="-2.2352" width="0.1524" layer="51"/>
-<wire x1="-2.413" y1="2.9718" x2="-2.8194" y2="2.9718" width="0.1524" layer="51" curve="-180"/>
-<wire x1="-2.8194" y1="2.9718" x2="-2.413" y2="2.9718" width="0.1524" layer="51" curve="-180"/>
-<wire x1="1.397" y1="0" x2="-1.397" y2="0" width="0" layer="51" curve="-180"/>
-<wire x1="-1.397" y1="0" x2="1.397" y2="0" width="0" layer="51" curve="-180"/>
-<text x="-3.2766" y="-0.635" size="1.27" layer="25" ratio="6" rot="SR0">&gt;Name</text>
-</package>
-</packages>
-<symbols>
-<symbol name="SW_SPST_1-2_3-4">
-<pin name="1" x="2.54" y="0" visible="pad" length="middle" direction="pas"/>
-<pin name="3" x="2.54" y="-2.54" visible="pad" length="middle" direction="pas"/>
-<pin name="2" x="38.1" y="0" visible="pad" length="middle" direction="pas" rot="R180"/>
-<pin name="4" x="38.1" y="-2.54" visible="pad" length="middle" direction="pas" rot="R180"/>
-<wire x1="7.62" y1="5.08" x2="7.62" y2="0" width="0.1524" layer="94"/>
-<wire x1="7.62" y1="0" x2="7.62" y2="-2.54" width="0.1524" layer="94"/>
-<wire x1="7.62" y1="-2.54" x2="7.62" y2="-7.62" width="0.1524" layer="94"/>
-<wire x1="7.62" y1="-7.62" x2="33.02" y2="-7.62" width="0.1524" layer="94"/>
-<wire x1="33.02" y1="-7.62" x2="33.02" y2="-2.54" width="0.1524" layer="94"/>
-<wire x1="33.02" y1="-2.54" x2="33.02" y2="0" width="0.1524" layer="94"/>
-<wire x1="33.02" y1="0" x2="33.02" y2="5.08" width="0.1524" layer="94"/>
-<wire x1="33.02" y1="5.08" x2="7.62" y2="5.08" width="0.1524" layer="94"/>
-<wire x1="7.62" y1="0" x2="20.32" y2="0" width="0.1524" layer="94"/>
-<wire x1="20.32" y1="0" x2="33.02" y2="0" width="0.1524" layer="94"/>
-<wire x1="7.62" y1="-2.54" x2="20.32" y2="-2.54" width="0.1524" layer="94"/>
-<wire x1="20.32" y1="-2.54" x2="33.02" y2="-2.54" width="0.1524" layer="94"/>
-<wire x1="20.32" y1="0" x2="20.32" y2="-0.254" width="0.1524" layer="94"/>
-<wire x1="20.32" y1="-2.286" x2="20.32" y2="-2.54" width="0.1524" layer="94"/>
-<wire x1="20.32" y1="-1.778" x2="21.082" y2="-0.762" width="0.1524" layer="94"/>
-<wire x1="20.32" y1="-0.762" x2="20.32" y2="-0.254" width="0.127" layer="94" curve="-180"/>
-<wire x1="20.32" y1="-0.254" x2="20.32" y2="-0.762" width="0.127" layer="94" curve="-180"/>
-<wire x1="20.32" y1="-2.286" x2="20.32" y2="-1.778" width="0.127" layer="94" curve="-180"/>
-<wire x1="20.32" y1="-1.778" x2="20.32" y2="-2.286" width="0.127" layer="94" curve="-180"/>
-<text x="15.5956" y="9.1186" size="2.0828" layer="95" ratio="6" rot="SR0">&gt;Name</text>
-<text x="14.9606" y="6.5786" size="2.0828" layer="96" ratio="6" rot="SR0">&gt;Value</text>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="PTS647SK38SMTR2LFS" prefix="SW">
-<gates>
-<gate name="A" symbol="SW_SPST_1-2_3-4" x="0" y="0"/>
-</gates>
-<devices>
-<device name="" package="PTS647SK38SMTR2LFS_CNK">
-<connects>
-<connect gate="A" pin="1" pad="1"/>
-<connect gate="A" pin="2" pad="2"/>
-<connect gate="A" pin="3" pad="3"/>
-<connect gate="A" pin="4" pad="4"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="BUILT_BY" value="EMA_Cory" constant="no"/>
-<attribute name="COPYRIGHT" value="Copyright (C) 2018 Accelerated Designs. All rights reserved" constant="no"/>
-<attribute name="DATASHEET" value="https://www.ckswitches.com/media/2567/pts647.pdf" constant="no"/>
-<attribute name="MANUFACTURER_PART_NUMBER" value="PTS647SK38SMTR2LFS" constant="no"/>
-<attribute name="SOURCELIBRARY" value="C&amp;K_2020-05-06" constant="no"/>
-<attribute name="VENDOR" value="C&amp;K" constant="no"/>
-</technology>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
 <library name="Atmega4808">
 <packages>
 <package name="TQFP32_PT_MCH">
@@ -15163,6 +15077,76 @@ Source: www.kingbright.com</description>
 </deviceset>
 </devicesets>
 </library>
+<library name="con-molex" urn="urn:adsk.eagle:library:165">
+<description>&lt;b&gt;Molex Connectors&lt;/b&gt;&lt;p&gt;
+&lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
+<packages>
+<package name="22-23-2021" urn="urn:adsk.eagle:footprint:8078259/1" library_version="5">
+<description>&lt;b&gt;KK® 254 Solid Header, Vertical, with Friction Lock, 2 Circuits, Tin (Sn) Plating&lt;/b&gt;&lt;p&gt;&lt;a href =http://www.molex.com/pdm_docs/sd/022232021_sd.pdf&gt;Datasheet &lt;/a&gt;</description>
+<wire x1="-2.54" y1="3.175" x2="2.54" y2="3.175" width="0.254" layer="21"/>
+<wire x1="2.54" y1="3.175" x2="2.54" y2="1.27" width="0.254" layer="21"/>
+<wire x1="2.54" y1="1.27" x2="2.54" y2="-3.175" width="0.254" layer="21"/>
+<wire x1="2.54" y1="-3.175" x2="-2.54" y2="-3.175" width="0.254" layer="21"/>
+<wire x1="-2.54" y1="-3.175" x2="-2.54" y2="1.27" width="0.254" layer="21"/>
+<wire x1="-2.54" y1="1.27" x2="-2.54" y2="3.175" width="0.254" layer="21"/>
+<wire x1="-2.54" y1="1.27" x2="2.54" y2="1.27" width="0.254" layer="21"/>
+<pad name="1" x="-1.27" y="0" drill="1" shape="long" rot="R90"/>
+<pad name="2" x="1.27" y="0" drill="1" shape="long" rot="R90"/>
+<text x="-2.54" y="3.81" size="1.016" layer="25" ratio="10">&gt;NAME</text>
+<text x="-2.54" y="-5.08" size="1.016" layer="27" ratio="10">&gt;VALUE</text>
+</package>
+</packages>
+<packages3d>
+<package3d name="22-23-2021" urn="urn:adsk.eagle:package:8078633/1" type="box" library_version="5">
+<description>&lt;b&gt;KK® 254 Solid Header, Vertical, with Friction Lock, 2 Circuits, Tin (Sn) Plating&lt;/b&gt;&lt;p&gt;&lt;a href =http://www.molex.com/pdm_docs/sd/022232021_sd.pdf&gt;Datasheet &lt;/a&gt;</description>
+<packageinstances>
+<packageinstance name="22-23-2021"/>
+</packageinstances>
+</package3d>
+</packages3d>
+<symbols>
+<symbol name="MV" urn="urn:adsk.eagle:symbol:6783/2" library_version="5">
+<wire x1="1.27" y1="0" x2="0" y2="0" width="0.6096" layer="94"/>
+<text x="2.54" y="-0.762" size="1.524" layer="95">&gt;NAME</text>
+<text x="-0.762" y="1.397" size="1.778" layer="96">&gt;VALUE</text>
+<pin name="S" x="-2.54" y="0" visible="off" length="short" direction="pas"/>
+</symbol>
+<symbol name="M" urn="urn:adsk.eagle:symbol:6785/2" library_version="5">
+<wire x1="1.27" y1="0" x2="0" y2="0" width="0.6096" layer="94"/>
+<text x="2.54" y="-0.762" size="1.524" layer="95">&gt;NAME</text>
+<pin name="S" x="-2.54" y="0" visible="off" length="short" direction="pas"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="22-23-2021" urn="urn:adsk.eagle:component:8078938/3" prefix="X" library_version="5">
+<description>.100" (2.54mm) Center Header - 2 Pin</description>
+<gates>
+<gate name="-1" symbol="MV" x="0" y="0" addlevel="always" swaplevel="1"/>
+<gate name="-2" symbol="M" x="0" y="-2.54" addlevel="always" swaplevel="1"/>
+</gates>
+<devices>
+<device name="" package="22-23-2021">
+<connects>
+<connect gate="-1" pin="S" pad="1"/>
+<connect gate="-2" pin="S" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:8078633/1"/>
+</package3dinstances>
+<technologies>
+<technology name="">
+<attribute name="MF" value="MOLEX" constant="no"/>
+<attribute name="MPN" value="22-23-2021" constant="no"/>
+<attribute name="OC_FARNELL" value="1462926" constant="no"/>
+<attribute name="OC_NEWARK" value="25C3832" constant="no"/>
+<attribute name="POPULARITY" value="40" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -15221,7 +15205,6 @@ Source: www.kingbright.com</description>
 <part name="V+1" library="PHASE" deviceset="PHASE" device=""/>
 <part name="P+9" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="V+" device=""/>
 <part name="V+" library="PHASE" deviceset="PHASE" device=""/>
-<part name="SW1" library="Push smd" deviceset="PTS647SK38SMTR2LFS" device=""/>
 <part name="R3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="M0805" package3d_urn="urn:adsk.eagle:package:23556/2" value="1.2k"/>
 <part name="R4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="M0805" package3d_urn="urn:adsk.eagle:package:23556/2" value="1.2k"/>
 <part name="SUPPLY14" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="GND" device=""/>
@@ -15236,6 +15219,7 @@ Source: www.kingbright.com</description>
 <part name="SUPPLY5" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="GND" device=""/>
 <part name="SUPPLY12" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="GND" device=""/>
 <part name="P+3" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
+<part name="X1" library="con-molex" library_urn="urn:adsk.eagle:library:165" deviceset="22-23-2021" device="" package3d_urn="urn:adsk.eagle:package:8078633/1"/>
 </parts>
 <sheets>
 <sheet>
@@ -15384,10 +15368,6 @@ Source: www.kingbright.com</description>
 <attribute name="VALUE" x="101.6" y="55.88" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="V+" gate="G$1" x="111.76" y="53.34" smashed="yes"/>
-<instance part="SW1" gate="A" x="-193.04" y="68.58" smashed="yes">
-<attribute name="NAME" x="-177.4444" y="77.6986" size="2.0828" layer="95" ratio="6" rot="SR0"/>
-<attribute name="VALUE" x="-178.0794" y="75.1586" size="2.0828" layer="96" ratio="6" rot="SR0"/>
-</instance>
 <instance part="R3" gate="G$1" x="-93.98" y="50.8" smashed="yes" rot="R270">
 <attribute name="NAME" x="-92.4814" y="54.61" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="-97.282" y="54.61" size="1.778" layer="96" rot="R270"/>
@@ -15427,6 +15407,13 @@ Source: www.kingbright.com</description>
 <instance part="SUPPLY12" gate="GND" x="17.78" y="5.08" smashed="yes"/>
 <instance part="P+3" gate="1" x="15.24" y="45.72" smashed="yes">
 <attribute name="VALUE" x="12.7" y="40.64" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="X1" gate="-1" x="-160.02" y="68.58" smashed="yes" rot="R180">
+<attribute name="NAME" x="-162.56" y="69.342" size="1.524" layer="95" rot="R180"/>
+<attribute name="VALUE" x="-159.258" y="67.183" size="1.778" layer="96" rot="R180"/>
+</instance>
+<instance part="X1" gate="-2" x="-160.02" y="71.12" smashed="yes" rot="R180">
+<attribute name="NAME" x="-162.56" y="71.882" size="1.524" layer="95" rot="R180"/>
 </instance>
 </instances>
 <busses>
@@ -15688,16 +15675,13 @@ Source: www.kingbright.com</description>
 <wire x1="-149.86" y1="55.88" x2="-149.86" y2="53.34" width="0.1524" layer="91"/>
 <wire x1="-149.86" y1="53.34" x2="-149.86" y2="40.64" width="0.1524" layer="91"/>
 <wire x1="-149.86" y1="40.64" x2="-139.7" y2="40.64" width="0.1524" layer="91"/>
-<pinref part="SW1" gate="A" pin="3"/>
-<wire x1="-190.5" y1="66.04" x2="-190.5" y2="58.42" width="0.1524" layer="91"/>
-<pinref part="SW1" gate="A" pin="4"/>
-<wire x1="-190.5" y1="58.42" x2="-154.94" y2="58.42" width="0.1524" layer="91"/>
-<wire x1="-154.94" y1="58.42" x2="-154.94" y2="66.04" width="0.1524" layer="91"/>
+<wire x1="-154.94" y1="58.42" x2="-154.94" y2="68.58" width="0.1524" layer="91"/>
 <wire x1="-154.94" y1="58.42" x2="-147.32" y2="58.42" width="0.1524" layer="91"/>
-<junction x="-154.94" y="58.42"/>
 <wire x1="-147.32" y1="58.42" x2="-147.32" y2="53.34" width="0.1524" layer="91"/>
 <wire x1="-147.32" y1="53.34" x2="-149.86" y2="53.34" width="0.1524" layer="91"/>
 <junction x="-149.86" y="53.34"/>
+<pinref part="X1" gate="-1" pin="S"/>
+<wire x1="-154.94" y1="68.58" x2="-157.48" y2="68.58" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="C8" gate="G$1" pin="1"/>
@@ -15727,16 +15711,10 @@ Source: www.kingbright.com</description>
 </net>
 <net name="N$9" class="0">
 <segment>
-<pinref part="SW1" gate="A" pin="1"/>
-<wire x1="-190.5" y1="68.58" x2="-190.5" y2="76.2" width="0.1524" layer="91"/>
-<pinref part="SW1" gate="A" pin="2"/>
-<wire x1="-190.5" y1="76.2" x2="-154.94" y2="76.2" width="0.1524" layer="91"/>
-<wire x1="-154.94" y1="76.2" x2="-154.94" y2="71.12" width="0.1524" layer="91"/>
 <pinref part="R5" gate="G$1" pin="1"/>
-<wire x1="-154.94" y1="71.12" x2="-154.94" y2="68.58" width="0.1524" layer="91"/>
 <wire x1="-152.4" y1="66.04" x2="-152.4" y2="71.12" width="0.1524" layer="91"/>
-<wire x1="-152.4" y1="71.12" x2="-154.94" y2="71.12" width="0.1524" layer="91"/>
-<junction x="-154.94" y="71.12"/>
+<pinref part="X1" gate="-2" pin="S"/>
+<wire x1="-152.4" y1="71.12" x2="-157.48" y2="71.12" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$10" class="0">
